@@ -1,0 +1,22 @@
+ul{
+    list-style-type:none;
+    display: flex;
+    /* border:2px solid red; */
+    padding:5px;    
+    background-color: black; 
+    justify-content: flex-end;
+}
+a{
+    color:white;
+    text-decoration:none;
+    /* border:1px solid; */
+    padding:5px;
+    margin:5px; 
+}
+*{
+    margin: 0;
+    padding:0;
+}
+.active{
+    background-color:greenyellow;
+}
